@@ -19,6 +19,15 @@
     <Filter Include="소스 파일\Study">
       <UniqueIdentifier>{615ac364-8f3d-4560-83ce-4c12582d7c64}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Study\Design_Pattern">
+      <UniqueIdentifier>{961526f9-e25a-4d0c-831a-25f24b4e7cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Study\STL">
+      <UniqueIdentifier>{50f4b2af-7399-4860-af7a-f0c184a7fbbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Study\SOLID">
+      <UniqueIdentifier>{2ff7c5a5-38b2-43f3-95a4-ec726013c4a9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="24262.cpp">
@@ -57,75 +66,6 @@
     <ClCompile Include="1436.cpp">
       <Filter>소스 파일\BaekJoon</Filter>
     </ClCompile>
-    <ClCompile Include="231025_Decorator.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231025_Singletone.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231026_Deque.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231026_Pair.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231026_template.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231026_Vector.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231027_array.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231027_forward_list.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231027_list.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231027_map.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231027_set.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231027_unordered_set.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231030_allocator.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231030_unordered_map.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231031_queue.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231031stack.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231101_priority_queue.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231102_find.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231102_for_each.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231102_sort.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231102_transform.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231113_binary_search.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231113_generate.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
     <ClCompile Include="231117_Pointer.cpp">
       <Filter>소스 파일\Study</Filter>
     </ClCompile>
@@ -135,44 +75,122 @@
     <ClCompile Include="231205_Inheritance.cpp">
       <Filter>소스 파일\Study</Filter>
     </ClCompile>
-    <ClCompile Include="231205_SingleResponsibilityPrinciple.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231205_OpenClosedPrinciple.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231205_LiskovSubstitutionPrinciple.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
     <ClCompile Include="9663.cpp">
       <Filter>소스 파일\BaekJoon</Filter>
     </ClCompile>
-    <ClCompile Include="231207_InterfaceSegregationPrinciple.cpp">
-      <Filter>소스 파일\Study</Filter>
+    <ClCompile Include="231025_Decorator.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
-    <ClCompile Include="231208_DependencyInversionPrinciple.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231214_FactoryPattern.cpp">
-      <Filter>소스 파일\Study</Filter>
+    <ClCompile Include="231025_Singletone.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
     <ClCompile Include="231214_AbstractFactory.cpp">
-      <Filter>소스 파일\Study</Filter>
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231214_FactoryPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
     <ClCompile Include="231215_BuilderPattern.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
-    <ClCompile Include="231216_SimpleBuilderPattern.cpp">
-      <Filter>소스 파일\Study</Filter>
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
     <ClCompile Include="231216_DirectorBuilderPattern.cpp">
-      <Filter>소스 파일\Study</Filter>
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
-    <ClCompile Include="231218_FacadePattern.cpp">
-      <Filter>소스 파일\Study</Filter>
+    <ClCompile Include="231216_SimpleBuilderPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
-    <ClCompile Include="231218_StrategyPattern.cpp">
-      <Filter>소스 파일\Study</Filter>
+    <ClCompile Include="231217_FacadePattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231218_PrototypePattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231217_StrategyPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231026_Deque.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231026_Pair.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231026_template.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231026_Vector.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231027_array.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231027_forward_list.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231027_list.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231027_map.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231027_set.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231027_unordered_set.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231030_allocator.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231030_unordered_map.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231031_queue.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231031stack.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231101_priority_queue.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231102_find.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231102_for_each.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231102_sort.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231102_transform.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231113_binary_search.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231113_generate.cpp">
+      <Filter>소스 파일\Study\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="231205_LiskovSubstitutionPrinciple.cpp">
+      <Filter>소스 파일\Study\SOLID</Filter>
+    </ClCompile>
+    <ClCompile Include="231205_OpenClosedPrinciple.cpp">
+      <Filter>소스 파일\Study\SOLID</Filter>
+    </ClCompile>
+    <ClCompile Include="231205_SingleResponsibilityPrinciple.cpp">
+      <Filter>소스 파일\Study\SOLID</Filter>
+    </ClCompile>
+    <ClCompile Include="231207_InterfaceSegregationPrinciple.cpp">
+      <Filter>소스 파일\Study\SOLID</Filter>
+    </ClCompile>
+    <ClCompile Include="231208_DependencyInversionPrinciple.cpp">
+      <Filter>소스 파일\Study\SOLID</Filter>
+    </ClCompile>
+    <ClCompile Include="231219_AdapterPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231219_StatePattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

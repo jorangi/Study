@@ -167,8 +167,11 @@
     <ClCompile Include="231215_BuilderPattern.cpp" />
     <ClCompile Include="231216_DirectorBuilderPattern.cpp" />
     <ClCompile Include="231216_SimpleBuilderPattern.cpp" />
-    <ClCompile Include="231218_FacadePattern.cpp" />
-    <ClCompile Include="231218_StrategyPattern.cpp" />
+    <ClCompile Include="231217_FacadePattern.cpp" />
+    <ClCompile Include="231218_PrototypePattern.cpp" />
+    <ClCompile Include="231217_StrategyPattern.cpp" />
+    <ClCompile Include="231219_AdapterPattern.cpp" />
+    <ClCompile Include="231219_StatePattern.cpp" />
     <ClCompile Include="24262.cpp" />
     <ClCompile Include="24263.cpp" />
     <ClCompile Include="24264.cpp" />
