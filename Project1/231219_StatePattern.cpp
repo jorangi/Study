@@ -41,14 +41,14 @@
 //{
 //private:
 //	PowerState* powerState;
+//	void ChangeState(PowerState* state)
+//	{
+//		this->powerState = state;
+//	}
 //public:
 //	LaptopContext()
 //	{
 //		this->powerState = &OffState::Inst();
-//	}
-//	void ChangeState(PowerState* state)
-//	{
-//		this->powerState = state;
 //	}
 //	void PowerButtonPress()
 //	{

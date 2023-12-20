@@ -172,6 +172,8 @@
     <ClCompile Include="231217_StrategyPattern.cpp" />
     <ClCompile Include="231219_AdapterPattern.cpp" />
     <ClCompile Include="231219_StatePattern.cpp" />
+    <ClCompile Include="231220_StaticFactoryMethod.cpp" />
+    <ClCompile Include="231220_StretageVsState.cpp" />
     <ClCompile Include="24262.cpp" />
     <ClCompile Include="24263.cpp" />
     <ClCompile Include="24264.cpp" />
