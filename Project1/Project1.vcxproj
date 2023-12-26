@@ -176,6 +176,8 @@
     <ClCompile Include="231220_StretageVsState.cpp" />
     <ClCompile Include="231226_BridgePattern.cpp" />
     <ClCompile Include="231226_ChainOfResposiblityPattern.cpp" />
+    <ClCompile Include="231227_CommandPattern.cpp" />
+    <ClCompile Include="231227_CommandPatternWrongExample.cpp" />
     <ClCompile Include="24262.cpp" />
     <ClCompile Include="24263.cpp" />
     <ClCompile Include="24264.cpp" />

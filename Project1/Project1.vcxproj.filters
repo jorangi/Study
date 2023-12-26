@@ -204,5 +204,11 @@
     <ClCompile Include="231226_ChainOfResposiblityPattern.cpp">
       <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
+    <ClCompile Include="231227_CommandPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231227_CommandPatternWrongExample.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
