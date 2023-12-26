@@ -198,5 +198,11 @@
     <ClCompile Include="231220_StaticFactoryMethod.cpp">
       <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
+    <ClCompile Include="231226_BridgePattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231226_ChainOfResposiblityPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
