@@ -210,5 +210,26 @@
     <ClCompile Include="231227_CommandPatternWrongExample.cpp">
       <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
+    <ClCompile Include="231227_CompositePattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231228_MementoPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231228_IteratorPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231228_FlyweightPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231228_MeditatorPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231229_TemplateMethodPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="231229_TemplateMethodPatternWithHookMethod.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
