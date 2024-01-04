@@ -131,6 +131,10 @@
     <ClCompile Include="1436.cpp" />
     <ClCompile Include="19532.cpp" />
     <ClCompile Include="2231.cpp" />
+    <ClCompile Include="240104_DoubleDispatch.cpp" />
+    <ClCompile Include="240104_LoggingProxy.cpp" />
+    <ClCompile Include="240104_NormalProxy.cpp" />
+    <ClCompile Include="240104_VirtualProxy.cpp" />
     <ClCompile Include="231025_Decorator.cpp" />
     <ClCompile Include="231025_Singletone.cpp" />
     <ClCompile Include="231026_Deque.cpp" />
@@ -185,6 +189,9 @@
     <ClCompile Include="231228_MementoPattern.cpp" />
     <ClCompile Include="231229_TemplateMethodPattern.cpp" />
     <ClCompile Include="231229_TemplateMethodPatternWithHookMethod.cpp" />
+    <ClCompile Include="240104_ProtectionProxy.cpp" />
+    <ClCompile Include="240104_ProxyPattern.cpp" />
+    <ClCompile Include="240104_VisitorPattern.cpp" />
     <ClCompile Include="24262.cpp" />
     <ClCompile Include="24263.cpp" />
     <ClCompile Include="24264.cpp" />

@@ -2,6 +2,10 @@ D:\portfolio\CPP\CPP_Study\Project1\Project1\1018.cpp;D:\portfolio\CPP\CPP_Study
 D:\portfolio\CPP\CPP_Study\Project1\Project1\1436.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\1436.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\19532.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\19532.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\2231.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\2231.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_DoubleDispatch.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_DoubleDispatch.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_LoggingProxy.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_LoggingProxy.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_NormalProxy.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_NormalProxy.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_VirtualProxy.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_VirtualProxy.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\231025_Decorator.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\231025_Decorator.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\231025_Singletone.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\231025_Singletone.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\231026_Deque.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\231026_Deque.obj
@@ -56,6 +60,9 @@ D:\portfolio\CPP\CPP_Study\Project1\Project1\231228_MeditatorPattern.cpp;D:\port
 D:\portfolio\CPP\CPP_Study\Project1\Project1\231228_MementoPattern.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\231228_MementoPattern.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\231229_TemplateMethodPattern.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\231229_TemplateMethodPattern.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\231229_TemplateMethodPatternWithHookMethod.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\231229_TemplateMethodPatternWithHookMethod.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_ProtectionProxy.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_ProtectionProxy.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_ProxyPattern.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_ProxyPattern.obj
+D:\portfolio\CPP\CPP_Study\Project1\Project1\240104_VisitorPattern.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\240104_VisitorPattern.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\24262.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\24262.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\24263.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\24263.obj
 D:\portfolio\CPP\CPP_Study\Project1\Project1\24264.cpp;D:\portfolio\CPP\CPP_Study\Project1\Project1\x64\Debug\24264.obj

@@ -231,5 +231,26 @@
     <ClCompile Include="231229_TemplateMethodPatternWithHookMethod.cpp">
       <Filter>소스 파일\Study\Design_Pattern</Filter>
     </ClCompile>
+    <ClCompile Include="240104_ProxyPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="240104_NormalProxy.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="240104_VirtualProxy.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="240104_ProtectionProxy.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="240104_LoggingProxy.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="240104_VisitorPattern.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="240104_DoubleDispatch.cpp">
+      <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
