@@ -28,6 +28,18 @@
     <Filter Include="소스 파일\Study\SOLID">
       <UniqueIdentifier>{2ff7c5a5-38b2-43f3-95a4-ec726013c4a9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BaekJoon\BruteForce">
+      <UniqueIdentifier>{1539f1c0-de63-482a-9ee9-25aacd0bddbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BaekJoon\Sorting">
+      <UniqueIdentifier>{e265d52d-2e38-4a5f-9108-c584195bdf83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm_Homework">
+      <UniqueIdentifier>{fa58de48-bb1a-45f1-9126-206bbb671c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Study\DataStructure">
+      <UniqueIdentifier>{9b54126c-0bc1-4581-8dd4-afaea86a103d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="24262.cpp">
@@ -61,9 +73,6 @@
       <Filter>소스 파일\BaekJoon</Filter>
     </ClCompile>
     <ClCompile Include="1018.cpp">
-      <Filter>소스 파일\BaekJoon</Filter>
-    </ClCompile>
-    <ClCompile Include="1436.cpp">
       <Filter>소스 파일\BaekJoon</Filter>
     </ClCompile>
     <ClCompile Include="231117_Pointer.cpp">
@@ -251,6 +260,72 @@
     </ClCompile>
     <ClCompile Include="240104_DoubleDispatch.cpp">
       <Filter>소스 파일\Study\Design_Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="1436.cpp">
+      <Filter>소스 파일\BaekJoon\BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="2839.cpp">
+      <Filter>소스 파일\BaekJoon\BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="2587.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="25305.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="10989.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="1427.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="11651.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="1181.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="18870.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="10814.cpp">
+      <Filter>소스 파일\BaekJoon\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="0_AandBAndOp.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="1_WhichIsTheLargest.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="2_StudentAverage.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="3_ReversePrint.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="4_TheMax.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="5_MultipleWithoutZero.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="06_TruncateSum.c">
+      <Filter>소스 파일\Algorithm_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalTree.cpp">
+      <Filter>소스 파일\Study\DataStructure</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
